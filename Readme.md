@@ -15,3 +15,14 @@ ConfigMaps and Secrets
 Namespaces
 
 Resource quotas and limits
+
+### 📜 **Changelog**  
+  Track updates and improvements in [`CHANGELOG.md`](./CHANGELOG.md).
+
+## 🚀 Getting Started
+
+Clone the repository: 
+
+```bash
+git clone https://github.com/IHRahimi/Kubernetes.git
+cd Kubernetes
