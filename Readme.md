@@ -4,25 +4,24 @@ This repository contains implementations and examples of various Kubernetes feat
 Features Implemented
 
 ### Core Concepts
-	Pods - Basic to advanced configurations
+Pods - Basic to advanced configurations
 
-	Deployments - Rolling updates, rollbacks, scaling
+Deployments - Rolling updates, rollbacks, scaling
 
-	Services - ClusterIP, NodePort, LoadBalancer
+Services - ClusterIP, NodePort, LoadBalancer
 
-	ConfigMaps and Secrets
+ConfigMaps and Secrets
 
-	Namespaces
+Namespaces
 
-	Resource quotas and limits
+Resource quotas and limits
 
 ### 📜 **Changelog**  
-	Track updates and improvements in [`CHANGELOG.md`](./CHANGELOG.md).
+Track updates and improvements in [`CHANGELOG.md`](./CHANGELOG.md).
 
 ## 🚀 Getting Started
 
-	Clone the repository: 
+Clone the repository: 
 
-	```bash
 	git clone https://github.com/IHRahimi/Kubernetes.git
 	cd Kubernetes
